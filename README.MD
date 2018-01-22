@@ -9,7 +9,7 @@ Then, it is placed in a random position in the maze (in the same orientation) an
 2. Visit the red cell, then play a sound.
 3. Visit the green cell, then play another sound.
 
-##To Run
+## To Run
 
 1. Connect lejOS robot to PC via bluetooth
 2. Upload and run TermProj.java
